@@ -19,12 +19,10 @@ Cafesio is a web-based cafe management system designed for online food ordering 
 - **Database**: MySQL
 
 ## Installation
-
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/ChandanaVaidya17/Cafesio.git
    ```
-
 2. **Set Up the Database**
    - Create a MySQL database and import the provided `cafesio.sql` file.
    - Update the `config.php` file with your database credentials.
