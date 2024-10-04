@@ -13,7 +13,6 @@ Cafesio is a web-based cafe management system designed for online food ordering 
 - Track the status of their orders in real-time.
 
 ## Technologies Used
-
 - **Frontend**: HTML, CSS
 - **Backend**: PHP
 - **Database**: MySQL
@@ -30,7 +29,6 @@ Cafesio is a web-based cafe management system designed for online food ordering 
 3. **Configure the Environment**
    - Make sure your server is running PHP and MySQL.
    - Place the project files in your web server's root directory (e.g., `htdocs` for XAMPP).
-
 4. **Access the Application**
    - Open your web browser and navigate to `http://localhost/cafesio` to start using the application.
 
