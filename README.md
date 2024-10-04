@@ -35,7 +35,6 @@ Cafesio is a web-based cafe management system designed for online food ordering 
 ## Configuration
 
 - **Database Configuration**: Edit `config.php` to set your database host, username, password, and database name.
-  
   ```php
   <?php
   $host = 'localhost'; // Database host
@@ -52,7 +51,6 @@ Cafesio is a web-based cafe management system designed for online food ordering 
   }
   ?>
   ```
-
 ## Usage
 
 - **Admin Login**: Access the admin dashboard by logging in with the admin credentials provided during setup.
