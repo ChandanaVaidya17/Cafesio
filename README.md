@@ -1,7 +1,5 @@
 # Cafesio
-
 Cafesio is a web-based cafe management system designed for online food ordering and order tracking. Built using PHP, MySQL, HTML, and CSS, Cafesio provides an intuitive interface for both admins and users.
-
 ## Features
 
 ### For Admins
