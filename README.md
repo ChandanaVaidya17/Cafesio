@@ -53,5 +53,5 @@ Cafesio is a web-based cafe management system designed for online food ordering 
   ```
 ## Usage
 
-- **Admin Login**: Access the admin dashboard by logging in with the admin credentials provided during setup.
+- **Admin Login**: Access the admin dashboard by logging in with the admin credentials provided during setup and alter the menu and order details.
 - **User Login**: Users can create accounts and log in to place and track orders.
